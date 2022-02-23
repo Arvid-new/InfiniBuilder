@@ -215,3 +215,7 @@
     </build>
 
 </project>
+<properties>
+  <sonar.organization>arvid-new</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
